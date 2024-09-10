@@ -1,0 +1,19 @@
+{
+  "products": [
+    {
+      "name": "Updated Product 1",
+      "price": 15,
+      "id": "1"
+    },
+    {
+      "id": "3",
+      "name": "Samsung S24",
+      "price": 1000
+    },
+    {
+      "id": "b428",
+      "name": "Product 4",
+      "price": 40
+    }
+  ]
+}
