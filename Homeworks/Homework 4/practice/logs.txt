@@ -1,0 +1,12 @@
+10.09.2024 14:21 [INFO]: Synchronous task completed
+10.09.2024 14:21 [WARN]: Potential corruption detected in file (sync)
+10.09.2024 14:21 [ERROR]: File corruption confirmed (sync)
+10.09.2024 14:21 [WARN]: Potential corruption detected in file (async)
+10.09.2024 14:21 [INFO]: Asynchronous task completed
+10.09.2024 14:21 [ERROR]: File corruption confirmed (async)
+17.09.2024 09:47 [INFO]: Synchronous task completed
+17.09.2024 09:47 [WARN]: Potential corruption detected in file (sync)
+17.09.2024 09:47 [ERROR]: File corruption confirmed (sync)
+17.09.2024 09:47 [INFO]: Asynchronous task completed
+17.09.2024 09:47 [WARN]: Potential corruption detected in file (async)
+17.09.2024 09:47 [ERROR]: File corruption confirmed (async)
